@@ -1,0 +1,36 @@
+fgbuster.component\_model
+=========================
+
+.. automodule:: fgbuster.component_model
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      lambdify
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      AnalyticComponent
+      CMB
+      Component
+      Dust
+      FreeFree
+      ModifiedBlackBody
+      PowerLaw
+      Synchrotron
+      ThermalSZ
+   
+   
+
+   
+   
+   

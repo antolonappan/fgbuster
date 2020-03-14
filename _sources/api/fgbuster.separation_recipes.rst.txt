@@ -1,0 +1,26 @@
+fgbuster.separation\_recipes
+============================
+
+.. automodule:: fgbuster.separation_recipes
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      basic_comp_sep
+      harmonic_ilc
+      ilc
+      multi_res_comp_sep
+      weighted_comp_sep
+   
+   
+
+   
+   
+   
+
+   
+   
+   
